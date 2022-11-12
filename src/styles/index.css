@@ -1,0 +1,18 @@
+html,
+body {
+  background-image: url('../assets/1home.jpg');
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  color: #000;
+}
+
+.centre {
+  background-color: #ffffff;
+  width: 80vw;
+  margin: 0 auto;
+}
